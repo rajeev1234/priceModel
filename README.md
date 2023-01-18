@@ -16,3 +16,5 @@ To check admin:
 url : http://localhost:8000/admin/
 username : admin
 password: admin
+
+![image](https://user-images.githubusercontent.com/10843889/213185267-300afece-6d26-472b-849f-21a1e8e5f022.png)
